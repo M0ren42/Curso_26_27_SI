@@ -1,3 +1,5 @@
+
+
 #Relación de Ejercicios de Binario y de Puertas Lógicas
 >@autor: morenmas
 
@@ -10,40 +12,40 @@
 **Resultado:**
 a)167,5(10
 b)128,375(10
- [Ejercicio1] (Pictures\ejercicios/Ejercicio1_2.jpg)
+![Ejercicio1](../../Pictures/ejercicios/Ejercicio1_2.jpg)
 # Ejercicio 2
 **Resultado:**
 a)0,8125(10, 216,64(8, 8E,D(16
 b)110,010011(2, E=0,003125
- [Ejercicio2] (Pictures\ejercicios/Ejercicio1_2.jpg)
+![Ejercicio2](../../Pictures/ejercicios/Ejercicio1_2.jpg)
 # Ejercicio 3
 **Resultado:**
 a)101000110111,1010(2, 5067,50(8
 b)011110110010,101(2, 7B2,A(16
- [Ejercicio3] (Pictures\ejercicios/Ejercicio3.jpg)
+![Ejercicio3](../../Pictures/ejercicios/Ejercicio3.jpg)
 # Ejercicio 4
 **Resultado:**
 a)101000,101(2
 b)1000000,001(2, 64, 125(10
- [Ejercicio4] (Pictures\ejercicios/Ejercicio4.jpg)
+![Ejercicio4](../../Pictures/ejercicios/Ejercicio4.jpg)
 # Ejercicio 5
 **Resultado:**
 a)01000001(2 SM:11000001 C1:10111110 C2:10111111
 b)-102
 c)181 (overflow)
 d)01100110
- [Ejercicio5] (Pictures\ejercicios/Ejercicio5.jpg)
+![Ejercicio5](../../Pictures/ejercicios/Ejercicio5.jpg)
 # Ejercicio 6
 **Resultado:**
 1100,1100, 1101,1000 C2:1101,1000(2 =-2,5(10
- [Ejercicio6] (Pictures\ejercicios/Ejercicio6.jpg)
- [Ejercicio6.2] (Pictures\ejercicios/Ejercicio6_7.jpg)
+![Ejercicio6](../../Pictures/ejercicios/Ejercicio6.jpg)
+![Ejercicio6.2](../../Pictures/ejercicios/Ejercicio6_7.jpg)
 # Ejercicio 7
 **Resultado:**
 a)1010100(2 = 84(10
 b)111,11(2 = 38,75(10
 c)00000111(2 = 7(10
- [Ejercicio7] (Pictures\ejercicios/Ejercicio6_7.jpg)
+![Ejercicio7](../../Pictures/ejercicios/Ejercicio6_7.jpg)
 # Ejercicio 8
 **Resultado:**
 pixeles: 3686400
@@ -52,7 +54,7 @@ bytes:14745600bytes
 MB:147456MB
 MiB:140625MiB
 Imagenes en una memoría USB de 32GB: 32000000000bytes = 2170 imagenes compl>
- [Ejercicio8] (Pictures\ejercicios/Ejercicio8.jpg)
+![Ejercicio8](../../Pictures/ejercicios/Ejercicio8.jpg)
 # Ejercicio 9
 **Resultado:**
 S=(A·B)+c'(negada)
@@ -66,7 +68,7 @@ A  B  C  A·B  C  S
 1  0  1  0    0  0
 1  1  0  1    1  1
 1  1  1  1    0  1
- [Ejercicio6.9] (Pictures\ejercicios/Ejercicio9.jpg)
+![Ejercicio9](../../Pictures/ejercicios/Ejercicio9.jpg)
 # Ejercicio 10
 **Resultado:**
 
@@ -81,6 +83,5 @@ A  B  C  S
 1  0  1  0
 1  1  0  1
 1  1  1  1
- [Ejercicio6.10] (Pictures\ejercicios/Ejercicio10.jpg)
- [Ejercicio10.2] (Pictures\ejercicios/Ejercicio10(2).jpg)
-
+![Ejercicio6.10](../../Pictures/ejercicios/Ejercicio10.jpg)
+![Ejercicio10.2](../../Pictures/ejercicios/Ejercicio10(2).jpg)
