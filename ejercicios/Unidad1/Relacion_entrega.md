@@ -12,7 +12,7 @@
 **Resultado:**
 a)167,5(10
 b)128,375(10
-![Ejercicio1](Imágenes/Ejercicio1_2.jpg)
+![Ejercicio1](imagenes/Ejercicio1_2.jpg)
 # Ejercicio 2
 **Resultado:**
 a)0,8125(10, 216,64(8, 8E,D(16
