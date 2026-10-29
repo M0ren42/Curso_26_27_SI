@@ -84,4 +84,4 @@ A  B  C  S
 1  1  0  1
 1  1  1  1
 ![Ejercicio6.10](imagenes/Ejercicio10.jpg)
-![Ejercicio10.2](imagenes/Ejercicio10(2).jpg)
+![Ejercicio10.2](ejercicios/Unidad1/imagenes/Ejercicio10(2).jpeg)
